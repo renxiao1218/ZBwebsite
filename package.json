@@ -1,8 +1,8 @@
 {
-  "name": "zsbigdata",
+  "name": "ZBwesite",
   "version": "1.0.0",
-  "description": "臻商大数据官网",
-  "author": "linqitai",
+  "description": "中标金融",
+  "author": "renxiao",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
